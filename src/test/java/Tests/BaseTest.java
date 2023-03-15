@@ -16,7 +16,7 @@ public class BaseTest {
 	
 	@BeforeTest
 	public void setup() {
-		driver = BrowserFactory.LaunchBrowser("chrome", "https://naveenautomationlabs.com/opencart/index.php?route=account/login");
+		driver = BrowserFactory.LaunchBrowser("firefox", "https://naveenautomationlabs.com/opencart/index.php?route=account/login");
 	}
 	
 
