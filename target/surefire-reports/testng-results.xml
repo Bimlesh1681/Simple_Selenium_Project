@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-14T11:45:43 IST" name="Regression" finished-at="2023-03-14T11:46:06 IST" duration-ms="23140">
+  <suite started-at="2023-03-15T09:43:03 IST" name="Regression" finished-at="2023-03-15T09:43:33 IST" duration-ms="29702">
     <groups>
     </groups>
-    <test started-at="2023-03-14T11:45:43 IST" name="BimleshAutomation1" finished-at="2023-03-14T11:45:52 IST" duration-ms="8884">
+    <test started-at="2023-03-15T09:43:03 IST" name="BimleshAutomation1" finished-at="2023-03-15T09:43:21 IST" duration-ms="17639">
       <class name="Tests.LoginPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LoginPageTest@16a0ee18]" started-at="2023-03-14T11:45:43 IST" name="setup" finished-at="2023-03-14T11:45:48 IST" duration-ms="4297" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LoginPageTest@3b6ddd1d]" started-at="2023-03-15T09:43:03 IST" name="setup" finished-at="2023-03-15T09:43:16 IST" duration-ms="13051" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="doLoginTest()[pri:0, instance:Tests.LoginPageTest@16a0ee18]" started-at="2023-03-14T11:45:48 IST" name="doLoginTest" finished-at="2023-03-14T11:45:52 IST" duration-ms="4547" status="PASS">
+        <test-method signature="doLoginTest()[pri:0, instance:Tests.LoginPageTest@3b6ddd1d]" started-at="2023-03-15T09:43:16 IST" name="doLoginTest" finished-at="2023-03-15T09:43:21 IST" duration-ms="4545" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doLoginTest -->
       </class> <!-- Tests.LoginPageTest -->
     </test> <!-- BimleshAutomation1 -->
-    <test started-at="2023-03-14T11:45:52 IST" name="BimleshAutomation2" finished-at="2023-03-14T11:46:06 IST" duration-ms="14220">
+    <test started-at="2023-03-15T09:43:21 IST" name="BimleshAutomation2" finished-at="2023-03-15T09:43:33 IST" duration-ms="12035">
       <class name="Tests.LogoutPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LogoutPageTest@bae7dc0]" started-at="2023-03-14T11:45:52 IST" name="setup" finished-at="2023-03-14T11:45:54 IST" duration-ms="2290" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.LogoutPageTest@1de5f259]" started-at="2023-03-15T09:43:21 IST" name="setup" finished-at="2023-03-15T09:43:24 IST" duration-ms="3122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="logoutPageSetup()[pri:0, instance:Tests.LogoutPageTest@bae7dc0]" started-at="2023-03-14T11:45:54 IST" name="logoutPageSetup" finished-at="2023-03-14T11:46:02 IST" duration-ms="7575" status="PASS">
+        <test-method is-config="true" signature="logoutPageSetup()[pri:0, instance:Tests.LogoutPageTest@1de5f259]" started-at="2023-03-15T09:43:24 IST" name="logoutPageSetup" finished-at="2023-03-15T09:43:28 IST" duration-ms="4562" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutPageSetup -->
-        <test-method signature="doLogoutTest()[pri:0, instance:Tests.LogoutPageTest@bae7dc0]" started-at="2023-03-14T11:46:02 IST" name="doLogoutTest" finished-at="2023-03-14T11:46:06 IST" duration-ms="4354" status="PASS">
+        <test-method signature="doLogoutTest()[pri:0, instance:Tests.LogoutPageTest@1de5f259]" started-at="2023-03-15T09:43:28 IST" name="doLogoutTest" finished-at="2023-03-15T09:43:33 IST" duration-ms="4350" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doLogoutTest -->
